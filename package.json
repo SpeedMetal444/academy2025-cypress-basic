@@ -15,7 +15,7 @@
     "cy:spec": "cypress run --spec **/*.spec.js",
     "cy:reporter": "cypress run --reporter reporters/lippia-reporter/lippia-reporter.js",
     "cy:local": "cypress run",
-    "cy:run": "cypress run --record --key projectId",
+    "cy:run": "cypress run --record --key d85047fb-4aa5-496e-8292-c4c01696b3ff",
     "orchestrate:help": "node scripts/runOrchestration.js help",
     "orchestrate:full": "node scripts/runOrchestration.js full",
     "orchestrate:complete": "node scripts/runOrchestration.js complete",
